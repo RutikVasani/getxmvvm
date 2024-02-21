@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyDsMw3VF_SuyvGTOQCr5tFyb94ARMP-WhE',
-    appId: '1:1014873697685:android:665eba0f4ddb6eae72da9c',
+    appId: '1:1014873697685:android:e1170109d187c91172da9c',
     messagingSenderId: '1014873697685',
     projectId: 'ekdant-fitness',
     storageBucket: 'ekdant-fitness.appspot.com',
@@ -59,10 +59,10 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyCW2vvDQXR2vKPDoV9SMnDS8LEcTkkDFiM',
-    appId: '1:1014873697685:ios:34bebba85296635572da9c',
+    appId: '1:1014873697685:ios:cc4cc7350e28541472da9c',
     messagingSenderId: '1014873697685',
     projectId: 'ekdant-fitness',
     storageBucket: 'ekdant-fitness.appspot.com',
-    iosBundleId: 'com.aiplus.aiplus3',
+    iosBundleId: 'com.example.getxmvvm',
   );
 }

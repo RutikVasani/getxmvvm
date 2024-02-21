@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1014873697685",
+    "project_id": "ekdant-fitness",
+    "storage_bucket": "ekdant-fitness.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014873697685:android:665eba0f4ddb6eae72da9c",
+        "android_client_info": {
+          "package_name": "com.aiplus.aiplus3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsMw3VF_SuyvGTOQCr5tFyb94ARMP-WhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014873697685:android:e1170109d187c91172da9c",
+        "android_client_info": {
+          "package_name": "com.example.getxmvvm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsMw3VF_SuyvGTOQCr5tFyb94ARMP-WhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
